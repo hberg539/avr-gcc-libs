@@ -1,5 +1,7 @@
 /*
+ * Serial library
  * ser.c
+ * https://github.com/hberg539/avr-gcc-libs
  */
 
 #include <avr/io.h>

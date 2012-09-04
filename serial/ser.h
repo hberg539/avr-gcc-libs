@@ -1,5 +1,7 @@
 /*
+ * Serial library
  * ser.h
+ * https://github.com/hberg539/avr-gcc-libs
  */
 
 #define SER_BAUDRATE 19200
