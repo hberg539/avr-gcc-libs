@@ -7,6 +7,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 #include <stdio.h>
+#include "d1w.h"
 
 #define D1W_DDR		DDRC
 #define D1W_PORT	PORTC
